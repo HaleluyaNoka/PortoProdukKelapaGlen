@@ -1144,7 +1144,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .smaller {
-	font-size: 15px;
+	font-size: 16px;
 }
 
 .box-contacts-link a, .box-contacts-link a:focus, .box-contacts-link a:active {
