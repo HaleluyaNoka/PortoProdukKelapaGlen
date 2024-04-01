@@ -1163,7 +1163,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .kecil a .beda:hover {
-	color: #151515;
+	color: #50ba87;
 }
 
 @media (min-width: 992px) {
