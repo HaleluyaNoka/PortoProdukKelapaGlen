@@ -1143,7 +1143,7 @@ a[href*='tel'], a[href*='mailto'] {
 	letter-spacing: .025em;
 }
 
-.kecil {
+.kecil a {
 	font-size: 18px;
 	line-height: 1.67;
 	letter-spacing: .025em;
