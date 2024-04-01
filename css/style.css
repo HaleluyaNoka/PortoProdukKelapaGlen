@@ -1153,8 +1153,8 @@ a[href*='tel'], a[href*='mailto'] {
 	color: inherit;
 }
 
-.kecil a, .kecil a:focus {
-	color: #151515;
+.kecil a, .kecil a:focus, .kecil a:active {
+	color: inherit;
 }
 
 .box-contacts-link a:hover {
