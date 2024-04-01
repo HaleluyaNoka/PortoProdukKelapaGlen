@@ -1138,7 +1138,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .box-contacts-link {
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 1.67;
 	letter-spacing: .025em;
 }
