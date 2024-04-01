@@ -1143,6 +1143,10 @@ a[href*='tel'], a[href*='mailto'] {
 	letter-spacing: .025em;
 }
 
+.kecil {
+	font-size: 15px;
+}
+
 .box-contacts-link a, .box-contacts-link a:focus, .box-contacts-link a:active {
 	color: #151515;
 }
