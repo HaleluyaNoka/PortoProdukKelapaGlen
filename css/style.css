@@ -1144,7 +1144,17 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .kecil {
-	font-size: 15px;
+	font-size: 18px;
+	line-height: 1.67;
+	letter-spacing: .025em;
+}
+
+.kecil a, .kecil a:focus, .kecil a:active {
+	color: inherit;
+}
+
+.kecil a:hover {
+	color: #50ba87;
 }
 
 .box-contacts-link a, .box-contacts-link a:focus, .box-contacts-link a:active {
