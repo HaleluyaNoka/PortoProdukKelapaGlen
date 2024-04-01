@@ -1163,7 +1163,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .kecil a:hover {
-	color: #50ba87;
+	color: #151515;
 }
 
 @media (min-width: 992px) {
