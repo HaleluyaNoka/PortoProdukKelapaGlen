@@ -1147,6 +1147,7 @@ a[href*='tel'], a[href*='mailto'] {
 	font-size: 15px;
 	line-height: 1.67;
 	letter-spacing: .025em;
+	color: #151515;
 }
 
 .box-contacts-link a, .box-contacts-link a:focus, .box-contacts-link a:active {
@@ -1154,7 +1155,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .kecil a, .kecil a:focus, .kecil a:active {
-	color: inherit;
+	color: #151515;
 }
 
 .box-contacts-link a:hover {
