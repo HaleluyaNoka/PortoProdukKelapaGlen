@@ -1153,7 +1153,7 @@ a[href*='tel'], a[href*='mailto'] {
 	color: inherit;
 }
 
-.kecil a, .kecil a:focus, .kecil a:active {
+.kecil a, .kecil a:focus {
 	color: inherit;
 }
 
