@@ -1143,7 +1143,7 @@ a[href*='tel'], a[href*='mailto'] {
 	letter-spacing: .025em;
 }
 
-.kecil {
+.kecil a .beda {
 	font-size: 15px;
 	line-height: 1.67;
 	letter-spacing: .025em;
@@ -1154,7 +1154,7 @@ a[href*='tel'], a[href*='mailto'] {
 	color: #151515;
 }
 
-.kecil a, .kecil a:focus, .kecil a:active {
+.kecil a .beda, .kecil a .beda:focus, .kecil a .beda:active {
 	color: #151515;
 }
 
@@ -1162,7 +1162,7 @@ a[href*='tel'], a[href*='mailto'] {
 	color: #50ba87;
 }
 
-.kecil a:hover {
+.kecil a .beda:hover {
 	color: #151515;
 }
 
