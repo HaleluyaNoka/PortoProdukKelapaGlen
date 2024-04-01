@@ -1151,18 +1151,18 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .box-contacts-link a, .box-contacts-link a:focus, .box-contacts-link a:active {
-	color: #151515;
+	color: inherit;
 }
 
 .kecil a .beda, .kecil a .beda:focus, .kecil a .beda:active {
-	color: #151515;
+	color: inherit;
 }
 
 .box-contacts-link a:hover {
 	color: #50ba87;
 }
 
-.kecil .beda a:hover {
+.kecil a .beda:hover {
 	color: #50ba87;
 }
 
