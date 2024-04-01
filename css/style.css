@@ -1162,7 +1162,7 @@ a[href*='tel'], a[href*='mailto'] {
 	color: #50ba87;
 }
 
-.kecil a .beda:hover {
+.kecil a:hover {
 	color: #50ba87;
 }
 
